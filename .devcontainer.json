@@ -1,0 +1,5 @@
+{
+  "name": "DevPod example per-user shell",
+  "image": "mcr.microsoft.com/devcontainers/base",
+  "postCreateCommand": "./postCreate.sh"
+}
